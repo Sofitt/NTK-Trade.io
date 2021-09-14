@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/", {data:[{}],fetch:{},mutations:[["townsList\u002FsetTown","Нижний новгород"],["vacanciesList\u002FsetVacancy","Выберите вакансию"]]});
